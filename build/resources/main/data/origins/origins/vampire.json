@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "origins:burn_in_daylight",
+    "origins:cat_vision",
+    "origins:water_breathing",
+    "origins:fall_immunity",
+    "origins:strong_arms",
+    "origins:no_natural_regeneration",
+    "origins:fragile"
+  ],
+  "icon": "minecraft:bat_spawn_egg",
+  "order": 1,
+  "impact": 3,
+  "name": "Vampire",
+  "description": "A creature of the night. You are stronger than mortals, but the sun is your enemy and you no longer heal naturally."
+}
