@@ -1,4 +1,0 @@
-v1	named	intermediary
-FIELD	io/github/apace100/origins/mixin/OriginUpgradeMixin	Lnet/minecraft/server/network/ServerPlayerEntity;	owner	field_13391
-METHOD	io/github/apace100/origins/mixin/ArgumentTypesMixin	(Lnet/minecraft/registry/Registry;Ljava/lang/String;Ljava/lang/Class;Lnet/minecraft/command/argument/serialize/ArgumentSerializer;)Lnet/minecraft/command/argument/serialize/ArgumentSerializer;	register	method_10017
-METHOD	io/github/apace100/origins/mixin/OriginUpgradeMixin	(Lnet/minecraft/advancement/AdvancementEntry;)Lnet/minecraft/advancement/AdvancementProgress;	getProgress	method_12882
